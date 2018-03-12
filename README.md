@@ -18,29 +18,38 @@ Chapter three completed.
     <br>
     * Html templates uploaded
     * Readme linking
+    <br>
 [Commit 2]
     <br>
     * Plot points of the story
+    <br>
 [Commit 3]
     <br>
     * Chapter one battle complete
+    <br>
 [Commit 4]
     <br>
     * Chapter one Complete
+    <br>
 [Commit 5]
     <br>
     * Chapter 2 story fleshed out
+    <br>
 [Commit 6]
     <br>   
     * Chapter 2 Complete
+    <br>
 [Commit 7]
     <br>
     * Chapter 3 battle start
     * Styling updates
+    <br>
 [Commit 8]
     <br>
     * Chapter 3 complete
+    <br>
 [Commit 9]
     <br>
     * Format readme
     * Chapter 1 styling for release
+    <br>
