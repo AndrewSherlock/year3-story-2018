@@ -13,6 +13,9 @@ This is the story of a man named Kasso who is a trader and his battle against an
 [Version 2.0](https://github.com/AndrewSherlock/year3-story-2018/releases/tag/v2.0)<br>
 [Version 3.0](https://github.com/AndrewSherlock/year3-story-2018/releases/tag/v3.0)
 
+## Github Pages Link
+[Github pages](https://andrewsherlock.github.io/year3-story-2018/)<br>
+
 ## Current progress
 Chapter one completed. <br>
 Chapter two completed.<br>
