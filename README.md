@@ -7,6 +7,6 @@ A short story written in html. 3 chapters will be written.
 
 
 ## Current progress
-Chapter one has been half complete to the end of the openning battle.
+Chapter one completed. 
 
 
