@@ -47,7 +47,7 @@ Chapter three completed.<br>
     - Chapter 2 Complete
     <br>
 **Commit 7**
-    <br>
+    <br> 
     - Chapter 3 battle start<br>
     - Styling updates
     <br>
