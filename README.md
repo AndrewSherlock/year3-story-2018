@@ -4,9 +4,9 @@
 This is the story of a man named Kasso who is a trader and his battle against an evil money lender.
 
 ## Quick links
-[Chapter 1](https://github.com/AndrewSherlock/year3-story-2018/blob/master/Chapter1.html)
-[Chapter 2](https://github.com/AndrewSherlock/year3-story-2018/blob/master/Chapter2.html)
-[Chapter 3](https://github.com/AndrewSherlock/year3-story-2018/blob/master/Chapter3.html)
+[Chapter 1](https://github.com/AndrewSherlock/year3-story-2018/blob/master/Chapter1.html)<br>
+[Chapter 2](https://github.com/AndrewSherlock/year3-story-2018/blob/master/Chapter2.html) <br>
+[Chapter 3](https://github.com/AndrewSherlock/year3-story-2018/blob/master/Chapter3.html) <br>
 
 
 ## Current progress
@@ -14,10 +14,10 @@ Chapter one completed. <br>
 Chapter two completed.<br>
 Chapter three completed.<br>
 
-[Commit 1] 
+**Commit 1** 
     <br>
     *  Html templates uploaded
-    *  Readme linking
+    *  Readme linking			
     <br>
 [Commit 2]
     <br>
