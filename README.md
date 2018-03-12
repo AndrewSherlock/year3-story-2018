@@ -11,4 +11,4 @@ Chapter one completed.
 
 Chapter two completed.
 
-Chapter three progress made, the story climax is set up.
+Chapter three completed.
