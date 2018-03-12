@@ -61,3 +61,4 @@ Chapter three completed.<br>
 
 ## Releases
 [Version 1.0](https://github.com/AndrewSherlock/year3-story-2018/releases/tag/v1.0)<br>
+[Version 2.0](https://github.com/AndrewSherlock/year3-story-2018/releases/tag/v2.0)<br>
