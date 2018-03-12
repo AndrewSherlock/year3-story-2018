@@ -10,14 +10,14 @@ This is the story of a man named Kasso who is a trader and his battle against an
 
 
 ## Current progress
-Chapter one completed. 
-Chapter two completed.
-Chapter three completed.
+Chapter one completed. <br>
+Chapter two completed.<br>
+Chapter three completed.<br>
 
 [Commit 1] 
     <br>
-    *Html templates uploaded
-    *Readme linking
+    -Html templates uploaded
+    -Readme linking
     <br>
 [Commit 2]
     <br>
