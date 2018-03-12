@@ -8,6 +8,8 @@ This is the story of a man named Kasso who is a trader and his battle against an
 [Chapter 2](Chapter2.html) <br>
 [Chapter 3](Chapter3.html) <br>
 
+[Chapter 3 - alternative ending](https://github.com/AndrewSherlock/year3-story-2018/blob/alternative_ending/Chapter3.html)<br>
+
 ## Releases
 [Version 1.0](https://github.com/AndrewSherlock/year3-story-2018/releases/tag/v1.0)<br>
 [Version 2.0](https://github.com/AndrewSherlock/year3-story-2018/releases/tag/v2.0)<br>
@@ -65,3 +67,5 @@ Chapter three completed.<br>
 [Chapter 1](https://github.com/AndrewSherlock/year3-story-2018/blob/master/Chapter1.html)<br>
 [Chapter 2](https://github.com/AndrewSherlock/year3-story-2018/blob/master/Chapter2.html) <br>
 [Chapter 3](https://github.com/AndrewSherlock/year3-story-2018/blob/master/Chapter3.html) <br>
+
+[Chapter 3 alternative ending](https://github.com/AndrewSherlock/year3-story-2018/blob/alternative_ending/Chapter3.html)
