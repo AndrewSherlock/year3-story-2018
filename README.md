@@ -36,6 +36,7 @@ Chapter three completed.<br>
     - Chapter 2 story fleshed out
     <br>
 **Commit 6** 
+    <br>
     - Chapter 2 Complete
     <br>
 **Commit 7**
