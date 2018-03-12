@@ -16,40 +16,39 @@ Chapter three completed.<br>
 
 **Commit 1** 
     <br>
-    *  Html templates uploaded<br>
-    *  Readme linking			
+    -  Html templates uploaded<br>
+    -  Readme linking			
     <br>
-[Commit 2]
+**Commit 2**
     <br>
-    * Plot points of the story
+    - Plot points of the story
     <br>
-[Commit 3]
+**Commit 3**
     <br>
-    * Chapter one battle complete
+    - Chapter one battle complete
     <br>
-[Commit 4]
+**Commit 4**
     <br>
-    * Chapter one Complete
+    - Chapter one Complete
     <br>
-[Commit 5]
+**Commit 5**
     <br>
-    * Chapter 2 story fleshed out
+    - Chapter 2 story fleshed out
     <br>
-[Commit 6]
-    <br>   
-    * Chapter 2 Complete
+**Commit 6** 
+    - Chapter 2 Complete
     <br>
-[Commit 7]
+**Commit 7**
     <br>
-    * Chapter 3 battle start<br>
-    * Styling updates
+    - Chapter 3 battle start<br>
+    - Styling updates
     <br>
-[Commit 8]
+**Commit 8**
     <br>
-    * Chapter 3 complete
+    - Chapter 3 complete
     <br>
-[Commit 9]
+**Commit 9**
     <br>
-    * Format readme<br>
-    * Chapter 1 styling for release
+    - Format readme<br>
+    - Chapter 1 styling for release
     <br>
