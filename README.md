@@ -9,4 +9,6 @@ A short story written in html. 3 chapters will be written.
 ## Current progress
 Chapter one completed. 
 
+Chapter two progress began, story up to meeting the loanshark
+
 
