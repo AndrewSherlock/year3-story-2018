@@ -16,7 +16,7 @@ Chapter three completed.<br>
 
 **Commit 1** 
     <br>
-    *  Html templates uploaded
+    *  Html templates uploaded<br>
     *  Readme linking			
     <br>
 [Commit 2]
@@ -41,7 +41,7 @@ Chapter three completed.<br>
     <br>
 [Commit 7]
     <br>
-    * Chapter 3 battle start
+    * Chapter 3 battle start<br>
     * Styling updates
     <br>
 [Commit 8]
@@ -50,6 +50,6 @@ Chapter three completed.<br>
     <br>
 [Commit 9]
     <br>
-    * Format readme
+    * Format readme<br>
     * Chapter 1 styling for release
     <br>
