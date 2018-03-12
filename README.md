@@ -16,8 +16,8 @@ Chapter three completed.<br>
 
 [Commit 1] 
     <br>
-    -Html templates uploaded
-    -Readme linking
+    *  Html templates uploaded
+    *  Readme linking
     <br>
 [Commit 2]
     <br>
