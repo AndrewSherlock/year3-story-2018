@@ -14,24 +14,33 @@ Chapter one completed.
 Chapter two completed.
 Chapter three completed.
 
-[Commit 1]
+[Commit 1] 
+    <br>
     * Html templates uploaded
     * Readme linking
 [Commit 2]
+    <br>
     * Plot points of the story
 [Commit 3]
+    <br>
     * Chapter one battle complete
 [Commit 4]
+    <br>
     * Chapter one Complete
 [Commit 5]
+    <br>
     * Chapter 2 story fleshed out
 [Commit 6]
+    <br>   
     * Chapter 2 Complete
 [Commit 7]
+    <br>
     * Chapter 3 battle start
     * Styling updates
 [Commit 8]
+    <br>
     * Chapter 3 complete
 [Commit 9]
+    <br>
     * Format readme
     * Chapter 1 styling for release
